@@ -1,0 +1,3 @@
+variable "EKS_CLUSTER_ROLE_NAME" {}
+variable "EKS_CLUSTER_NODEGROUP_NAME" {}
+variable "EKS_FARGATE_ROLE_NAME" {}
